@@ -1,7 +1,0 @@
-disabled_rules:
-  - force_cast
-  - force_try
-  - force_unwrapping
-  - explicit_acl
-  - missing_docs
-  - cyclomatic_complexity
